@@ -1,0 +1,12 @@
+.\flash\quizgame.o: quizgame.c
+.\flash\quizgame.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\flash\quizgame.o: C:\Keil_v5\ARM\INC\NXP\LPC17xx\LPC17xx.H
+.\flash\quizgame.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h
+.\flash\quizgame.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\quizgame.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\flash\quizgame.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\flash\quizgame.o: C:\Keil_v5\ARM\INC\NXP\LPC17xx\system_LPC17xx.h
+.\flash\quizgame.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\flash\quizgame.o: GLCD.h
+.\flash\quizgame.o: KBD.h
+.\flash\quizgame.o: quizgame.h

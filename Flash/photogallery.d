@@ -1,0 +1,11 @@
+.\flash\photogallery.o: PhotoGallery.c
+.\flash\photogallery.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\flash\photogallery.o: C:\Keil_v5\ARM\INC\NXP\LPC17xx\LPC17xx.H
+.\flash\photogallery.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h
+.\flash\photogallery.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\photogallery.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\flash\photogallery.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\flash\photogallery.o: C:\Keil_v5\ARM\INC\NXP\LPC17xx\system_LPC17xx.h
+.\flash\photogallery.o: GLCD.h
+.\flash\photogallery.o: KBD.h
+.\flash\photogallery.o: PhotoGallery.h
